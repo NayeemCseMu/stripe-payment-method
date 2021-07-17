@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'screens/home.dart';
+import 'module/dashboard/screens/home.dart';
 
 Map<String, WidgetBuilder> routes = {
   HomePage.routeName: (context) => HomePage(),
